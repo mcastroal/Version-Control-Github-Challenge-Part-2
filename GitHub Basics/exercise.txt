@@ -1,0 +1,6 @@
+A terminal is an interface that allows you to give your computer commands more efficiently.
+Git is a distributed version control system that operates on you computer and allows you to keep track of a files history. GitHub is cloud based platform that stores remote repositories to enable easy collaboration. You can use Git without GitHub but not vice versa.
+To fork a GitHub repository:
+First you need to access the repository you would like a copy of.
+Then press the "fork" button.
+Followed by the "create fork" button.
